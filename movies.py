@@ -14,6 +14,17 @@ from typing import List, Tuple
 
 movie_db: List[Tuple[str, str, int, List[str]]] = [
     (
+        "moana",  # title
+        "ron clements",  # director
+        1974,  # year
+        [
+            "auliʻi cravalho",
+            "dwayne johnson",
+            "alan tudyk",
+            "jemaine clement",
+        ],  # actors/actresses
+    ),
+    (
         "amarcord",  # title
         "federico fellini",  # director
         1974,  # year
