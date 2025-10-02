@@ -16,7 +16,7 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
     (
         "moana",  # title
         "ron clements",  # director
-        1974,  # year
+        2016,  # year
         [
             "auliʻi cravalho",
             "dwayne johnson",
